@@ -1,4 +1,4 @@
-module hovermint.com/xrpl-vanity
+module github.com/isatoraz/xrpl-vanity
 
 go 1.23.0
 
